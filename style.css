@@ -111,7 +111,7 @@ hr {
 
 .parent {
     display: grid;
-    grid-template-columns: 0.5fr 1fr;
+    grid-template-columns: 0.7fr 1fr;
     grid-template-rows: repeat(1, 1fr);
     width: 50%;
     margin: 100px auto 0 auto;
