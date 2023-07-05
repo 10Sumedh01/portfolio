@@ -216,7 +216,7 @@ hr {
     }
     .parent{
         grid-template-columns: 1fr;
-        margin-left: 85px;
+        margin-left: 75px;
         row-gap: 0;
         /* column-gap: 2rem; */
     }
